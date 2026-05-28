@@ -1,5 +1,5 @@
 """
-Golden Ratio (φ) Image Analyzer (PRO ANATOMY VERSION)
+Golden Ratio (φ) Image Analyzer
 Uses MediaPipe Face Mesh for exact anatomical landmarks.
 Computes true physiological φ ratios and generates an advanced dashboard.
 """
@@ -510,8 +510,8 @@ def print_report(result: PhiResult):
 
 def main():
     print("\n╔═══════════════════════════════════════════════════╗")
-    print("║   Golden Ratio (φ) Image Analyzer  v3.0           ║")
-    print("║   Powered by AI Anatomical Face Mesh (MediaPipe)  ║")
+    print("║   Golden Ratio (φ) Image Analyzer                 ║")
+    print("║       Made by Ashutosh Gupta                      ║")
     print("╚═══════════════════════════════════════════════════╝\n")
 
     while True:
